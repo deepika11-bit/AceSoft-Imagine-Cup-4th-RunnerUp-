@@ -1,0 +1,4 @@
+cd path/to/your/backend
+node server.js 
+html run cheyali
+terminal or cmd
